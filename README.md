@@ -6,7 +6,7 @@
 
 ### 开发语言：Python（Python-3.13.0）
 
-### 开发时间：2026年05月11日 ~ 至今持续更新！
+### 开发时间：2026年05月10日 ~ 至今持续更新！
 
 ### 开源地址（Github）：https://github.com/BProbie/ClimbInsect/
 
