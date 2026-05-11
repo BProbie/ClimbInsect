@@ -18,7 +18,7 @@
 
 ### 依赖技术：
 
-- ##### requests~=2.32.5
+- ##### requests~=2.33.1
 
 - ##### fake-useragent~=2.2.0
 
