@@ -7,7 +7,7 @@ import requests
 import fake_useragent
 from data.args import getArgs
 
-# 工具信息
+# 脚本信息
 NAME = "ClimbInsect"
 VERSION = "v1.0.0"
 
