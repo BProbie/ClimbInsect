@@ -44,7 +44,8 @@ git clone https://github.com/BProbie/ClimbInsect.git
 
 ```shell
 cd ClimbInsect
-pip install -r requirements.txt
+python.exe -m pip install --upgrade pip
+python.exe -m pip install -r requirements.txt
 ```
 
 ##### 构建工具
