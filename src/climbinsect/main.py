@@ -9,7 +9,7 @@ from data.args import getArgs
 
 # 脚本信息
 NAME = "ClimbInsect"
-VERSION = "v1.0.0"
+VERSION = "1.0.0"
 
 # 变量
 url = None
